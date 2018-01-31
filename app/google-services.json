@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288650809609",
+    "firebase_url": "https://morsechatapp.firebaseio.com",
+    "project_id": "morsechatapp",
+    "storage_bucket": "morsechatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288650809609:android:0063706dacae2770",
+        "android_client_info": {
+          "package_name": "com.example.silas.morsechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288650809609-uu9uqhgguk9burjrtcrnvjffaa3rrl7p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.silas.morsechat",
+            "certificate_hash": "d9a5574eebec75bf6aed98e6e0943eb1e619ab55"
+          }
+        },
+        {
+          "client_id": "288650809609-7vn6vko66ogohcl29q4a6hs9h0hr0a5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-ltb5ZdnCr0PHrY_6dEYzMukJIFAJI5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288650809609-7vn6vko66ogohcl29q4a6hs9h0hr0a5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
